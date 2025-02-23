@@ -1,1 +1,76 @@
+>sp|O76024|WFS1_HUMAN Wolframin OS=Homo sapiens OX=9606 GN=WFS1 PE=1 SV=2
+Score: 1.0000
 
+>sp|Q9VM60|MCMBP_DROME Mini-chromosome maintenance complex-binding protein OS=Drosophila melanogaster OX=7227 GN=CG3430 PE=1 SV=1
+Score: 0.2483
+
+>sp|Q4G176|ACSF3_HUMAN Malonate--CoA ligase ACSF3, mitochondrial OS=Homo sapiens OX=9606 GN=ACSF3 PE=1 SV=3
+Score: 0.2472
+
+>sp|Q8MJI6|S22A2_RABIT Solute carrier family 22 member 2 OS=Oryctolagus cuniculus OX=9986 GN=SLC22A2 PE=1 SV=1
+Score: 0.2461
+
+>sp|Q794F9|4F2_RAT Amino acid transporter heavy chain SLC3A2 OS=Rattus norvegicus OX=10116 GN=Slc3a2 PE=1 SV=1
+Score: 0.2461
+
+>sp|Q03AP9|RNY_LACP3 Ribonuclease Y OS=Lacticaseibacillus paracasei (strain ATCC 334 / BCRC 17002 / CCUG 31169 / CIP 107868 / KCTC 3260 / NRRL B-441) OX=321967 GN=rny PE=3 SV=1
+Score: 0.2449
+
+>sp|Q76JQ2|FLCN_RAT Folliculin OS=Rattus norvegicus OX=10116 GN=Flcn PE=1 SV=1
+Score: 0.2449
+
+>sp|Q99884|SC6A7_HUMAN Sodium-dependent proline transporter OS=Homo sapiens OX=9606 GN=SLC6A7 PE=1 SV=2
+Score: 0.2449
+
+>sp|P28573|SC6A7_RAT Sodium-dependent proline transporter OS=Rattus norvegicus OX=10116 GN=Slc6a7 PE=1 SV=2
+Score: 0.2449
+
+>sp|Q5RA67|RPKL1_PONAB Ribosomal protein S6 kinase-like 1 OS=Pongo abelii OX=9601 GN=RPS6KL1 PE=2 SV=1
+Score: 0.2449
+
+>sp|Q3SZ20|GLYM_BOVIN Serine hydroxymethyltransferase, mitochondrial OS=Bos taurus OX=9913 GN=SHMT2 PE=2 SV=1
+Score: 0.2449
+
+>sp|Q9QYU3|KCNG2_RAT Voltage-gated potassium channel regulatory subunit KCNG2 OS=Rattus norvegicus OX=10116 GN=Kcng2 PE=2 SV=1
+Score: 0.2438
+
+>sp|Q28G25|BBS4_XENTR BBSome complex member BBS4 OS=Xenopus tropicalis OX=8364 GN=bbs4 PE=2 SV=1
+Score: 0.2438
+
+>sp|Q9Y6S9|RPKL1_HUMAN Ribosomal protein S6 kinase-like 1 OS=Homo sapiens OX=9606 GN=RPS6KL1 PE=1 SV=1
+Score: 0.2438
+
+>sp|Q9HCE6|ARGAL_HUMAN Rho guanine nucleotide exchange factor 10-like protein OS=Homo sapiens OX=9606 GN=ARHGEF10L PE=1 SV=4
+Score: 0.2432
+
+>sp|Q9HCE6|ARGAL_HUMAN Rho guanine nucleotide exchange factor 10-like protein OS=Homo sapiens OX=9606 GN=ARHGEF10L PE=1 SV=4
+Score: 0.2432
+
+>sp|Q2FHF2|RNY_STAA3 Ribonuclease Y OS=Staphylococcus aureus (strain USA300) OX=367830 GN=rny PE=3 SV=1
+Score: 0.2427
+
+>sp|P10852|4F2_MOUSE Amino acid transporter heavy chain SLC3A2 OS=Mus musculus OX=10090 GN=Slc3a2 PE=1 SV=1
+Score: 0.2427
+
+>sp|Q29626|PTGIS_BOVIN Prostacyclin synthase OS=Bos taurus OX=9913 GN=PTGIS PE=1 SV=1
+Score: 0.2427
+
+>sp|Q8NFG4|FLCN_HUMAN Folliculin OS=Homo sapiens OX=9606 GN=FLCN PE=1 SV=1
+Score: 0.2427
+
+>sp|Q3B7L5|FLCN_BOVIN Folliculin OS=Bos taurus OX=9913 GN=FLCN PE=2 SV=1
+Score: 0.2427
+
+>sp|Q8QZS3|FLCN_MOUSE Folliculin OS=Mus musculus OX=10090 GN=Flcn PE=1 SV=1
+Score: 0.2427
+
+>sp|Q13424|SNTA1_HUMAN Alpha-1-syntrophin OS=Homo sapiens OX=9606 GN=SNTA1 PE=1 SV=1
+Score: 0.2427
+
+>sp|O15013|ARHGA_HUMAN Rho guanine nucleotide exchange factor 10 OS=Homo sapiens OX=9606 GN=ARHGEF10 PE=1 SV=4
+Score: 0.2418
+
+>sp|Q9NY93|DDX56_HUMAN Probable ATP-dependent RNA helicase DDX56 OS=Homo sapiens OX=9606 GN=DDX56 PE=1 SV=1
+Score: 0.2416
+
+>sp|P40682|VAS1_BOVIN V-type proton ATPase subunit
